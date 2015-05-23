@@ -1,0 +1,35 @@
+body {
+    background-color: #F4F5F7;
+}
+
+main {
+}
+
+.no-margin-top {
+    margin-top: 0;
+}
+
+body { 
+    padding-top: 40px; 
+}
+
+.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    text-align: center;
+}
+
+img.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+
+
+/*
+div.row > div:last-child div.game-thumbnail, div.row > div:last-child div.game-thumbnail > a.thumbnail {
+    margin-bottom: 0;
+}
+
+div.row > div:last-child div.game-thumbnail {
+    height: auto;
+}
+*/
